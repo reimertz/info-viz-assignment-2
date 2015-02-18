@@ -1,9 +1,0 @@
-{
-  "name": "assignment2",
-  "private": true,
-  "dependencies": {
-    "modernizr": "~2.8.1",
-    "c3": "~0.4.9",
-    "topojson": "~1.6.18"
-  }
-}
